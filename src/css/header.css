@@ -1,0 +1,9 @@
+.serial {
+    list-style: none; 
+  }
+  
+  .serial li {
+    display: inline-block;
+    margin-right: 50px;
+  }
+  
